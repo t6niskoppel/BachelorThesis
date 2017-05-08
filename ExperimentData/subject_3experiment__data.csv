@@ -1,0 +1,2 @@
+Subject_ID;date;Age;Sex;Handedness;Vision;Experiment_trial_count;Standard_contrast;Test_contrast_low;Test_contrast_high;Test_contrast_increments;Stimuli_show_time;Time_between_trials;Trials_between_rest 
+2;4/25/2017 6:00:19 PM;21;M;Right;Wears glasses;200;0.245;0.15;0.4;5;0.25;0.5;20
